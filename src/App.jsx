@@ -5,7 +5,7 @@ function App() {
     <>
       <Header />
       <main style={{height:"80vh "}} >
-      <h1>HOME : My React App</h1>
+      <h1>HOME page </h1>
 
       </main>
       
@@ -17,3 +17,18 @@ function App() {
 }
 
 export default App;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
